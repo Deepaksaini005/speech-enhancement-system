@@ -3,6 +3,8 @@
 A simple project for reducing background noise and improving voice clarity in noisy audio.
 The system combines a spectral denoiser with a lightweight CNN model and includes a Streamlit demo app.
 
+Live Demo  : https://speech-enhance-ai.streamlit.app/
+
 ## Project Structure
 
 - `app/` - Streamlit demo app for audio upload and enhancement
